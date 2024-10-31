@@ -1,0 +1,188 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "easystd.apk"
+  ],
+  "treeExpansions": [
+    [
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "d",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "d.a",
+      "d",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "d.b",
+      "d",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "d.c",
+      "d",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "d.d",
+      "d",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "d.e",
+      "d",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "com",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "ctf.cma",
+      "com",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "com.ctf.cma.MainActivity",
+      "ctf.cma",
+      "com",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "com.ctf.cma.Check",
+      "ctf.cma",
+      "com",
+      "源代码",
+      "easystd.apk"
+    ],
+    [
+      "google.android.material",
+      "com",
+      "源代码",
+      "easystd.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "android.support.v4.app.RemoteActionCompatParcelizer",
+      "subPath": "java",
+      "caret": 148,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "t1.a",
+      "subPath": "java",
+      "caret": 64,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "z0.a",
+      "subPath": "java",
+      "caret": 405,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "a.a",
+      "subPath": "java",
+      "caret": 173,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "a.b",
+      "subPath": "java",
+      "caret": 63,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "b.a",
+      "subPath": "java",
+      "caret": 143,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "d.e",
+      "subPath": "java",
+      "caret": 424,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.ctf.cma.Check",
+      "subPath": "java",
+      "caret": 170,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.ctf.cma.MainActivity",
+      "subPath": "java",
+      "caret": 948,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.ctf.cma.R",
+      "subPath": "java",
+      "caret": 93,
+      "view": {
+        "x": 0,
+        "y": 50
+      }
+    }
+  ],
+  "activeTab": 7,
+  "cacheDir": "easystd.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}
